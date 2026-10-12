@@ -1,0 +1,37 @@
+# Environment and secrets (per submission instructions)
+.env
+.env.*
+*.env
+PROBLEM_STATEMENT.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
