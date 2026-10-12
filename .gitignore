@@ -3,6 +3,11 @@
 .env.*
 *.env
 PROBLEM_STATEMENT.docx
+DATA_MODEL.md
+openapi.yaml
+sample_data/
+sample_seed.py
+test_suite.py
 
 # Python
 __pycache__/
